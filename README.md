@@ -40,9 +40,6 @@
 
 <div align="center">
 
-![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhanandini&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhanandini&theme=dark&hide_border=true&layout=compact)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhanandini&theme=react-dark&hide_border=true&radius=10)](https://github.com/jhanandini)
 
 </div>
