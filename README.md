@@ -57,6 +57,6 @@
 
 <div align="center">
 
-### 💫 Building. Learning. Growing. | Shimla, India 🏔️
+💫 **Building. Learning. Growing.** | Shimla, India 🏔️
 
 </div>
