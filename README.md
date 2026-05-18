@@ -1,13 +1,65 @@
-👋 Hi, I'm Nandini Jha
+<div align="center">
 
-- 🧠 IT student figuring out what excites me most in tech
-- 🌱 Currently into Python, NLP, and AI tools
-- 💻 I build small projects to learn big concepts
-- 🔍 Passionate about ethical and responsible tech
-- 😄 She/Her
-- ⚡ Fun fact: Sundays are my most productive days, don't disturb 😄
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Nandini+Jha;Full+Stack+Developer+%7C+AI+Explorer+%7C+HPU+Shimla)](https://git.io/typing-svg)
 
-<!---
-jhanandini/jhanandini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandini--jha-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-jha-740658282)
+[![GitHub](https://img.shields.io/badge/GitHub-jhanandini-181717?style=for-the-badge&logo=github)](https://github.com/jhanandini)
+[![Visitors](https://komarev.com/ghpvc/?username=jhanandini&style=for-the-badge&color=F7971E)](https://github.com/jhanandini)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+> - 🎓 **IT Student @ Himachal Pradesh University, Shimla** (2nd Year)
+> - 💼 **Freelance Web Developer** - built & deployed real client projects
+> - 🔥 Currently diving deep into **React, Python, NLP & AI Tools**
+> - 🌱 Learning by building - every project teaches me something new
+> - 🚀 Passionate about building products that are **useful, ethical & beautiful**
+> - 😄 She/Her | ⚡ Sundays = my most productive days, don't disturb 😄
+
+---
+
+## 🧰 Tech Stack & Tools
+
+[![Skills](https://skillicons.dev/icons?i=react,js,html,css,python,firebase,vite,git,github,vscode,vercel)](https://skillicons.dev)
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| 🛒 **IFIX Computers** | Full-stack e-commerce store for a client — admin panel, GST invoice generator, cart with WhatsApp ordering | React, Firebase, Vercel | [🔗 Live](https://ifix-computers.vercel.app) |
+| 🤖 **AI Meeting Summarizer** | NLP web app that summarizes meeting notes & extracts action items | Python, spaCy, Streamlit | [🔗 Repo](https://github.com/jhanandini/ai-meeting-notes-summarizer) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhanandini&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhanandini&theme=dark&hide_border=true&layout=compact)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhanandini&theme=react-dark&hide_border=true&radius=10)](https://github.com/jhanandini)
+
+</div>
+
+---
+
+## 📜 Currently Learning
+
+> ✅ React + Vite (deployed real projects)
+> ✅ Python & NLP (spaCy, Streamlit)
+> 🔄 Exploring AI/ML tools
+> 🔄 Open Source Contributions
+
+---
+
+<div align="center">
+
+### 💫 Building. Learning. Growing. | Shimla, India 🏔️
+
+</div>
