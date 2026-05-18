@@ -23,7 +23,7 @@
 
 ## 🧰 Tech Stack & Tools
 
-[![Skills](https://skillicons.dev/icons?i=react,js,html,css,python,firebase,vite,git,github,vscode,vercel)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,python,firebase,git,github,vscode,vercel)](https://skillicons.dev)
 
 ---
 
