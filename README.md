@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 > - 🎓 **IT Student @ Himachal Pradesh University, Shimla** (2nd Year)
 > - 💼 **Freelance Web Developer** - built & deployed real client projects
@@ -21,13 +21,13 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 [![Skills](https://skillicons.dev/icons?i=html,css,python,firebase,git,github,vscode,vercel)](https://skillicons.dev)
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📜 Currently Learning
+## Currently Learning
 
 > ✅ React + Vite (deployed real projects)
 > ✅ Python & NLP (spaCy, Streamlit)
@@ -57,6 +57,6 @@
 
 <div align="center">
 
-💫 **Building. Learning. Growing.** | Shimla, India 🏔️
+**Building. Learning. Growing.** | Shimla, India
 
 </div>
