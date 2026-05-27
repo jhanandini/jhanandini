@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+,+I'm+Nandini+Jha;Full+Stack+Developer+%7C+AI+Explorer+%7C+HPU+Shimla)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+,+I'm+Nandini+Jha;Aspiring+Data+Analyst+%7C+AI+Explorer+%7C+HPU+Shimla)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nandini--jha-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-jha-740658282)
 [![GitHub](https://img.shields.io/badge/GitHub-jhanandini-181717?style=for-the-badge&logo=github)](https://github.com/jhanandini)
