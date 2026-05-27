@@ -17,7 +17,7 @@
 > - 🔥 Currently diving deep into **React, Python, NLP & AI Tools**
 > - 🌱 Learning by building - every project teaches me something new
 > - 🚀 Passionate about building products that are **useful, ethical & beautiful**
-> - 😄 She/Her | ⚡ Sundays = my most productive days, don't disturb 😄
+> - 😄 She/Her | Sundays = my most productive days, don't disturb
 
 ---
 
