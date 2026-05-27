@@ -10,14 +10,13 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-> - 🎓 **IT Student @ Himachal Pradesh University, Shimla** (2nd Year)
-> - 💼 **Freelance Web Developer** - built & deployed real client projects
-> - 🔥 Currently diving deep into **React, Python, NLP & AI Tools**
-> - 🌱 Learning by building - every project teaches me something new
-> - 🚀 Passionate about building products that are **useful, ethical & beautiful**
-> - 😄 She/Her | Sundays = my most productive days, don't disturb
+> - **IT Student @ Himachal Pradesh University, Shimla** (2nd Year)
+> - **Aspiring Data Analyst** — exploring data at the intersection of tech & environmental science
+> - Building skills in **Python, Data Analysis & Visualization**
+> - Open Source Contributor — GSSoC 2026 | Selected from 35,000+ applicants
+> - She/Her | Sundays = my most productive days, don't disturb 😄
 
 ---
 
@@ -46,13 +45,11 @@
 
 ---
 
-## Currently Learning
+## 📜 Currently Learning
 
-> ✅ React + Vite (deployed real projects)
-> ✅ Python & NLP (spaCy, Streamlit)
-> 🔄 Exploring AI/ML tools
-> 🔄 Open Source Contributions
-
+> ✅ Python + Data Analysis (Kaggle Certified)
+> ✅ Open Source Contributions (GSSoC 2026)
+> 🔄 Data Visualization — Pandas, Matplotlib
 ---
 
 <div align="center">
