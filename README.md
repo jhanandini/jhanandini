@@ -30,9 +30,10 @@
 
 | Project | Description | Tech | Live |
 | :--- | :--- | :--- | :--- |
+| **AgriChain Analytics** | Decentralized organic supply chain traceability & AI yield anomaly verification engine | Python, Streamlit, Scikit-Learn, Web3 / IPFS | [🔗 Live](https://agrichain-analytics.streamlit.app) \| [🔗 Repo](https://github.com/jhanandini/agrichain-analytics) |
 | **IFIX Computers** | Full-stack e-commerce store for a client - admin panel, GST invoice generator, cart with WhatsApp ordering | React, Firebase, Vercel | [🔗 Live](https://github.com/jhanandini/ifix-computers) |
 | **AI Meeting Summarizer** | Web app that summarizes meeting notes & extracts action items | Python, Streamlit, Google Gemini 2.5 Flash API | [🔗 Repo](https://github.com/jhanandini/ai-meeting-notes-summarizer) |
-| **nandinisgreen** | An intelligent, friendly, and witty book recommender system built using the Gemini 2.5 Flash model and Streamlit | [Python, Streamlit, Google Gemini 2.5 Flash API] | [🔗 Repo](https://github.com/jhanandini/nandinisgreen) |
+| **nandinisgreen** | An intelligent, friendly, and witty book recommender system built using the Gemini 2.5 Flash model and Streamlit | Python, Streamlit, Google Gemini 2.5 Flash API | [🔗 Repo](https://github.com/jhanandini/nandinisgreen) |
 
 ---
 
