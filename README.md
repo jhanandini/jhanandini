@@ -15,7 +15,6 @@
 > - **IT Student @ Himachal Pradesh University, Shimla** (2nd Year)
 > - **Aspiring Data Analyst** - exploring data at the intersection of tech & environmental science
 > - Building skills in **Python, Data Analysis & Visualization**
-> - Open Source Contributor - GSSoC 2026 | Selected from 35,000+ applicants
 > - She/Her | Sundays = my most productive days, don't disturb 😄
 
 ---
