@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-> - **IT Student @ Himachal Pradesh University, Shimla** (2nd Year)
+> - **IT Student @ Himachal Pradesh University, Shimla** (3rd Year)
 > - **Aspiring Data Analyst** - exploring data at the intersection of tech & environmental science
 > - Building skills in **Python, Data Analysis & Visualization**
 > - She/Her | Sundays = my most productive days, don't disturb 😄
