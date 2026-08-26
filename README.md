@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 > - **IT Student @ Himachal Pradesh University, Shimla** (3rd Year)
 > - **Aspiring Data Analyst** - exploring data at the intersection of tech & environmental science
@@ -46,10 +46,9 @@
 
 ---
 
-## 📜 Currently Learning
+## Currently Learning
 
 > ✅ Python + Data Analysis (Kaggle Certified)
-> ✅ Open Source Contributions (GSSoC 2026)
 > 🔄 Data Visualization - Pandas, Matplotlib
 ---
 
