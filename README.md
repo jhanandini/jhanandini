@@ -1,59 +1,38 @@
-<div align="center">
+# Hey, I'm Nandini Jha 👋
+### Data Analyst | AI & Policy Explorer | IT Undergraduate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+,+I'm+Nandini+Jha;Aspiring+Data+Analyst+%7C+AI+Explorer+%7C+HPU+Shimla)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandini--jha-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-jha-740658282)
-[![GitHub](https://img.shields.io/badge/GitHub-jhanandini-181717?style=for-the-badge&logo=github)](https://github.com/jhanandini)
-[![Visitors](https://komarev.com/ghpvc/?username=jhanandini&style=for-the-badge&color=F7971E)](https://github.com/jhanandini)
-
-</div>
+I'm an Information Technology student passionate about data engineering, automated analytics pipelines, and AI systems governance. I focus on building real-world end-to-end data products, solving algorithmic problems, and exploring machine learning applications.
 
 ---
 
-## About Me
-
-> - **IT Student @ Himachal Pradesh University, Shimla** (3rd Year)
-> - **Aspiring Data Analyst** - exploring data at the intersection of tech & environmental science
-> - Building skills in **Python, Data Analysis & Visualization**
-> - She/Her | Sundays = my most productive days, don't disturb 😄
+### 📌 What I'm Up To
+* 📊 **Data Analysis & Engineering:** Building data pipelines, cleaning dirty datasets, and running SQL/Pandas analytics.
+* 🤖 **AI Exploration:** Integrating LLM APIs (Gemini) into decision-making dashboards and policy tools.
+* 💻 **DSA:** Practicing core algorithms, data structures, and problem-solving in Python.
 
 ---
 
-## Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-[![Skills](https://skillicons.dev/icons?i=html,css,python,firebase,git,github,vscode,vercel)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech | Live |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **AgriChain Analytics** | Decentralized organic supply chain traceability & AI yield anomaly verification engine | Python, Streamlit, Scikit-Learn, Web3 / IPFS | [🔗 Live](https://agrichain-analytics.streamlit.app) \| [🔗 Repo](https://github.com/jhanandini/agrichain-analytics) |
-| **IFIX Computers** | Full-stack e-commerce store for a client - admin panel, GST invoice generator, cart with WhatsApp ordering | React, Firebase, Vercel | [🔗 Live](https://github.com/jhanandini/ifix-computers) |
-| **AI Meeting Summarizer** | Web app that summarizes meeting notes & extracts action items | Python, Streamlit, Google Gemini 2.5 Flash API | [🔗 Repo](https://github.com/jhanandini/ai-meeting-notes-summarizer) |
-| **nandinisgreen** | An intelligent, friendly, and witty book recommender system built using the Gemini 2.5 Flash model and Streamlit | Python, Streamlit, Google Gemini 2.5 Flash API | [🔗 Repo](https://github.com/jhanandini/nandinisgreen) |
+| **AgriChain Analytics** | Supply chain telemetry dashboard featuring anomaly detection and automated AI briefings. | Python, Pandas, Streamlit, Gemini API | [Repo](https://github.com/jhanandini/agrichain-analytics) |
+| **Ecommerce Analytics Engine** | SQL & Python backend pipeline parsing multi-variable log data with automated summaries. | Python, Pandas, SQLite, Gemini API | Private |
+| **AI Meeting Notes Summarizer** | Web app leveraging LLMs to parse, summarize, and extract actionable insights from raw transcripts. | Python, Streamlit, Gemini API | [Repo](https://github.com/jhanandini/ai-meeting-notes-summarizer) |
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhanandini&theme=react-dark&hide_border=true&radius=10)](https://github.com/jhanandini)
-
-</div>
-
----
-
-## Currently Learning
-
-> ✅ Python + Data Analysis (Kaggle Certified)
-> 🔄 Data Visualization - Pandas, Matplotlib
----
-
-<div align="center">
-
-**Building. Learning. Growing.** | Shimla, India
-
-</div>
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-jha)
