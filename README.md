@@ -1,4 +1,4 @@
-# Hey, I'm Nandini Jha 👋
+# Hey, I'm Nandini Jha!
 ### Data Analyst | AI & Policy Explorer | IT Undergraduate
 
 I'm an Information Technology student passionate about data engineering, automated analytics pipelines, and AI systems governance. I focus on building real-world end-to-end data products, solving algorithmic problems, and exploring machine learning applications.
